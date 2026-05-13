@@ -1,7 +1,23 @@
-# 🌿 IvyPro V1
-**The Next-Generation Financial Operating System for Indian Enterprises.**
+# IvyPro V1
 
 IvyPro is a high-performance, keyboard-driven accounting and GST billing software designed for speed, compliance, and aesthetic excellence. It combines the power of traditional accounting logic with a state-of-the-art "Modern Dark" interface.
+<img width="1372" height="666" alt="splash" src="https://github.com/user-attachments/assets/203d701c-c5eb-4df6-a692-b355a31a0f17" />
+
+---
+
+## 💻 User Installation (Windows 10/11)
+
+> [!IMPORTANT]
+> ### 🖥️ System Requirements
+> *   **Operating System**: Windows 10 or Windows 11 (64-bit).
+> *   **Display**: 1280x800 minimum resolution recommended.
+
+### 📥 How to Run IvyPro
+1.  **Extract the Files**: Locate your `IvyProV1.zip` and extract its entire contents into a permanent folder (e.g., `C:\IvyPro`). 
+    *   *Warning: Do NOT run the app directly from inside the ZIP file as it will prevent database saving.*
+2.  **Launch the App**: Open the folder and double-click on **`IvyProV1.exe`**.
+3.  **Bypass SmartScreen**: If Windows Defender shows a "Windows protected your PC" message, click **More Info** and then **Run anyway**.
+4.  **First-Time Setup**: On the first launch, the app will open in fullscreen. Follow the "First Setup" prompts to create your Administrator account and initialize your company database.
 
 ---
 
@@ -15,6 +31,7 @@ IvyPro is a high-performance, keyboard-driven accounting and GST billing softwar
     - **Service Billing**: Specialized layout for service-based businesses.
     - **Simple Mode**: Minimized interface for non-technical users.
 - **Auto-Sequence**: Customizable invoice prefixes and dynamic starting sequences.
+- **Whatsapp sharing**: whatsapp sharing intigration
 
 ### 📊 Accounting & Financial Intelligence
 - **Tally-Style Reporting**: Real-time **Balance Sheet**, **Profit & Loss Account**, and **Detailed Trial Balance**.
@@ -57,14 +74,6 @@ IvyPro is a high-performance, keyboard-driven accounting and GST billing softwar
 
 ## 🎨 Design Language
 IvyPro features a curated **Ivy Orange** branding (`rgb(255, 116, 41)`) set against a deep-charcoal "Premium Dark" theme. Every interaction is polished with subtle micro-animations and glassmorphism.
-
----
-
-## 🚀 Quick Start (Development)
-1. **Prerequisites**: Python 3.8+
-2. **Setup**: `pip install -r requirements.txt`
-3. **Run**: `python run.py`
-4. **Build**: Run `build_app.bat` to generate the standalone Windows EXE.
 
 ---
 
